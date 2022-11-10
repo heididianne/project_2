@@ -25,10 +25,10 @@
   
   #info div {
     padding: 3rem;
-    background: rgb(9, 60, 227);
+    background: rgb(52, 192, 30);
     margin: 0.5rem;
     border-radius: 10px;
-    color: #fff;
+    color: rgb(4, 4, 4);
     font-size: 1.2rem;
     text-align: center;
   }

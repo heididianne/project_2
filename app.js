@@ -1,27 +1,27 @@
 let data = [
     {
-      name: 'Mateo',
-      age: '30'
+      name: 'Tinkerbell',
+      age: '13'
     },
     {
-      name: 'Sarah',
-      age: '32'
+      name: 'Oliver',
+      age: '8'
     },
     {
-      name: 'John',
-      age: '20'
+      name: 'Lilo',
+      age: '8'
     },
     {
-      name: 'Tim',
-      age: '27'
+      name: 'Brainy',
+      age: '7'
     },
     {
-      name: 'Sam',
-      age: '22'
+      name: 'Moana',
+      age: '5'
     },
     {
-      name: 'Joey',
-      age: '34'
+      name: 'Flynn',
+      age: '2'
     }
   ];
   
